@@ -1,0 +1,22 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Comenzando con Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel J. Coronilla",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "puppeteer": "^5.3.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
