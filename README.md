@@ -1,6 +1,6 @@
 # Tablas de multiplicar por comandos
 
-Esta aplicación de Node nos permitirá mostrar cualquier tabla de multiplicar que pasemos por comandos y con un límite de resultados que pongamos (opcional).
+Ejercicio básico creado en NodeJS que nos permitirá mostrar cualquier tabla de multiplicar que pasemos por comandos y con un límite de resultados que pongamos (opcional).
 
 Para utilizar esta aplicación deberemos reconstruir los paquetes de node
 ```
