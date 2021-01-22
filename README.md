@@ -2,7 +2,7 @@
 
 Ejercicio básico creado en NodeJS que nos permitirá mostrar cualquier tabla de multiplicar que pasemos por comandos y con un límite de resultados que pongamos (opcional).
 
-Para utilizar esta aplicación deberemos reconstruir los paquetes de node
+Recuerde reconstruir los paquetes de node para su uso
 ```
 npm install
 ```
